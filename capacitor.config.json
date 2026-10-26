@@ -1,0 +1,7 @@
+{
+  "appId": "com.trackport.app",
+  "appName": "TrackPort",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
